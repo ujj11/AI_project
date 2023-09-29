@@ -1,0 +1,17 @@
+Product_name:
+    css: '#productTitle'
+    type: Text
+Product_Image:
+    css: 'div.a-image-container.a-dynamic-image-container.greyBackground img'
+    xpath: null
+    type: Attribute
+    attribute: src
+Product_Price:
+    css: 'span.a-price-whole'
+    type: Text
+Product_Reviews:
+    css: 'span.a-size-base'
+    type: Text
+Product_Rating:
+    css: span.a-icon-alt
+    type: Text
